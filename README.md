@@ -81,11 +81,6 @@ The application uses three main tables:
 
 ### Installation
 
-1. **Navigate to the project directory**
-   ```bash
-   cd "C:\Users\ajays\OneDrive\Desktop\Amazon Clone"
-   ```
-
 2. **Install dependencies**
    ```bash
    pip install -r requirements.txt
